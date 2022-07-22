@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+
+.one,.two,.three{
+    text-align: center;
+}
+
+.three, .two{
+    margin: 50px;
+}
+body{
+    background-color: aqua;
+}
